@@ -1,5 +1,11 @@
-### Hi there 👋
+### 👋 Hello!
 
+My name is Anthony Huang. I'm a 14 year old programmer who mostly focuses on **front-end things**, mostly web development.
+
+> Check out my website here 👉 https://anthonyhuang07.github.io
+
+#### Projects:
+- Current project - JavaScript Bot (discord.js)
 <!--
 **anthonyhuang07/anthonyhuang07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
