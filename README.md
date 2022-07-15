@@ -7,5 +7,4 @@ Please visit my website any time to learn more about me!
 > Check out my website here 👉 https://anthonyhuang07.github.io
 
 ## Projects 🗺️
-- [JavaScript Bot (discord.js) 🤖](https://github.com/anthonyhuang07/FHDBot)
 - [Website (HTML/CSS/JS) 💻](https://anthonyhuang07.github.io)
