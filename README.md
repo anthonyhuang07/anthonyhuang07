@@ -7,4 +7,4 @@ Please visit my website any time to learn more about me!
 > Check out my website here 👉 https://anthonyhuang07.github.io
 
 ## Projects 🗺️
-- [Website (HTML/CSS/JS) 💻](https://anthonyhuang07.github.io)
+- [Website 💻](https://anthonyhuang07.github.io)
