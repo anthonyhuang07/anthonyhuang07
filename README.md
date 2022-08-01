@@ -8,4 +8,4 @@ Please visit my website any time to learn more about me!
 
 ## Projects 🗺️
 - [Personal Website 💻](https://anthonyhuang07.github.io)
-- [English <=> Egg Latin Translator 🥚](https://anthonyhuang07.github.io/English-Egg-Latin-Translator/)
+- [Egg Latin Translator 🥚](https://anthonyhuang07.github.io/English-Egg-Latin-Translator/)
