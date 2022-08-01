@@ -7,4 +7,5 @@ Please visit my website any time to learn more about me!
 > Check out my website here 👉 https://anthonyhuang07.github.io
 
 ## Projects 🗺️
-- [Website 💻](https://anthonyhuang07.github.io)
+- [Personal Website 💻](https://anthonyhuang07.github.io)
+- [English <=> Egg Latin Translator](https://anthonyhuang07.github.io/English-Egg-Latin-Translator/)
