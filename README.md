@@ -11,4 +11,4 @@ Please visit my website any time to learn more about me!
 
 ## Projects 🗺️
 - [Personal Website 💻](https://anthonyhuang07.github.io)
-- [Egg Latin Translator 🥚](https://anthonyhuang07.github.io/Egg-Latin-Translator/)
+- [Latin Variants Translator 🥚](https://anthonyhuang07.github.io/Egg-Latin-Translator/)
