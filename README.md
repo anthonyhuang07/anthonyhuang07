@@ -8,8 +8,8 @@ My name is Anthony Huang. I'm a 14 year old programmer who mostly focuses on **f
 
 Please visit my website any time to learn more about me!
 
-> Check out my website here 👉 https://anthonyhuang07.github.io
+> Check out my website here 👉 ~~https://anthonyhuang07.github.io~~ DOMAIN ACQUIRED! https://ah07.xyz
 
 ## Projects 🗺️
-- [Personal Website 💻](https://anthonyhuang07.github.io)
-- [Latin Variants Translator 🥚](https://anthonyhuang07.github.io/Latin-Variants-Translator/)
+- [Personal Website 💻](https://ah07.xyz)
+- [Latin Variants Translator 🥚](https://ah07.xyz/Latin-Variants-Translator/)
