@@ -11,4 +11,4 @@ Please visit my website any time to learn more about me!
 
 ## Projects 🗺️
 - [Personal Website 💻](https://ah07.xyz)
-- [Discord Formatter {WIP} 🥚](https://ah07.xyz/discord-formatter/)
+- [Discord Formatter 🥚](https://ah07.xyz/discord-formatter/)
