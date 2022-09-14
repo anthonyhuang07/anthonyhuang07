@@ -9,7 +9,7 @@ My name is Anthony Huang. I'm a 14 year old programmer who mostly focuses on **f
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" />
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" />
 <img align="left" alt="CSS" width="30px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" />
-<img align="left" alt="HTML" width="30px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" />
+<img align="left" alt="HTML" width="30px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" /><br>
 
 Please visit my website any time to learn more about me!
 
