@@ -18,3 +18,4 @@ Please visit my website any time to learn more about me!
 
 ## Projects (That are being maintained) 🗺️
 - [Discord Formatter 🥚](https://ah07.xyz/discord-formatter/)
+- [Trolling Websites 🚎](https://trollage.ah07.xyz/)
