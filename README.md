@@ -10,6 +10,6 @@ Please visit my website any time to learn more about me!
 > Check out my website here 👉 https://ah07.xyz
 
 ## Projects (That are being maintained) 🗺️
-- [Discord Formatter 🥚](https://ah07.xyz/discord-formatter/)
-- [Trolling Websites 🚎](https://ah07.xyz/trollage)
 - [PomodoPro ⏱️](https://ah07.xyz/PomodoPro/)
+- [Trolling Websites 🧌](https://ah07.xyz/trollage)
+- [Discord Formatter 🎨](https://ah07.xyz/discord-formatter/)
