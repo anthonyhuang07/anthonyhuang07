@@ -15,4 +15,4 @@ Please visit my website any time to learn more about me!
 - [PomodoPro ⏱️](https://ah07.xyz/PomodoPro/)
 
 ## Hackathon Winning Projects ⭐️
-- [TextToTest 📝](https://ah07.xyz/TextToTest/)(Hack the Ridge 2023)
+- [TextToTest 📝](https://ah07.xyz/TextToTest/) (Hack the Ridge 2023, Male Solo Winner)
