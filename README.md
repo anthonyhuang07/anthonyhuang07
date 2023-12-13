@@ -10,9 +10,3 @@ My name is Anthony Huang, AKA. FHDHGNGN online. I'm a Canadian 16 year old progr
 Please visit my website any time to learn more about me!
 
 > Check out my website here 👉 https://ah07.xyz
-
-## Projects (That are being maintained) 🗺️
-- [PomodoPro ⏱️](https://ah07.xyz/PomodoPro/)
-
-## Hackathon Winning Projects ⭐️
-- [TextToTest 📝](https://ah07.xyz/TextToTest/) (Hack the Ridge 2023, Male Solo Winner)
