@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Anthony Huang, AKA. FHDHGNGN online. I'm a Canadian 16 year old programmer who specializes in Web Development.
+My name is Anthony Huang, AKA. FHDHGNGN online. I'm a Canadian 16 year old programmer who specializes in front-end programming.
 
 ![](https://komarev.com/ghpvc/?username=anthonyhuang07&color=ff7700)
 
