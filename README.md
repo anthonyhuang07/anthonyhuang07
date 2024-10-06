@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Anthony Huang. I'm a Canadian 16 year old programmer who specializes in front-end programming, as well as learning full-stack.
+My name is Anthony Huang. I'm a Canadian 17 year old programmer who specializes in front-end programming, as well as learning full-stack.
 
 ![](https://komarev.com/ghpvc/?username=anthonyhuang07&color=ff7700)
 
