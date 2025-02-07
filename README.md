@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Anthony Huang. I'm a 17 year old incoming Computer Science student who specializes in front-end programming. I also have interests in Cybersecurity, Linguistics and Geography.
+I'm Anthony! I'm a 17 year old incoming Computer Science student who specializes in front-end programming. I also have interests in Cybersecurity, Linguistics and Geography.
 
 ![](https://komarev.com/ghpvc/?username=anthonyhuang07&color=ff7700)
 
