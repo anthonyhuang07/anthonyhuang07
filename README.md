@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Anthony! I'm a 17 year old high school student who specializes in front-end programming. I also have interests in Cybersecurity, Linguistics and Geography. 
+I'm Anthony, a 17 year old high school student who specializes in front-end programming! I am primarily interested in Computing, Linguistics and Geography. 
 
 Please visit my website to learn more about me!
 
