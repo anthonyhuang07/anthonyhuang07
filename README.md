@@ -12,6 +12,6 @@ Please visit my website to learn more about me!
 
 
 ## Personal Projects
-- [⭐️ Personal Website](https://ah07.xyz)
-- [⏱️ PomodoPro](https://ah07.xyz/PomodoPro/)
-- [📚 IB Converter](https://ah07.xyz/ibconverter/)
+- [⭐️ Personal Website](https://anthonyhuang.net)
+- [⏱️ PomodoPro](https://pomodopro.app)
+- [📚 IB Converter](https://ibconverter.live)
