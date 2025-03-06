@@ -6,7 +6,7 @@ Please visit my website to learn more about me!
 
 ![](https://komarev.com/ghpvc/?username=anthonyhuang07&color=ff7700)
 
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,py,md,cloudflare,vscode,apple"/>
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,py,obsidian,cloudflare,vscode,apple"/>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,latex,git,discordjs,nodejs,p5js,pr,ps"/>
 
 
