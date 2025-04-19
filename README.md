@@ -1,8 +1,6 @@
 # Hello! 👋
 
-I'm Anthony, a 17 year old high school student who specializes in front-end programming! I am primarily interested in Computing, Linguistics and Geography. 
-
-Please visit my website to learn more about me!
+I'm Anthony, a 17 year old high school student who specializes in front-end programming! I am currently training in offensive security.
 
 ![](https://komarev.com/ghpvc/?username=anthonyhuang07&color=ff7700)
 
