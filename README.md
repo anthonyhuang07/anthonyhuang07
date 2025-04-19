@@ -9,7 +9,7 @@ Please visit my website to learn more about me!
 <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,py,cloudflare,vscode"/>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,latex,discordjs,p5js,pr,ps"/>
 
-[![anthonyhuang07's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=anthonyhuang07&langs_count=5&show_icons=true&locale=en&hide_border=true&layout=compact&theme=onedark)](https://github.com/anthonyhuang07)
+<img src="https://tryhackme-badges.s3.amazonaws.com/FHDHGNGN.png" alt="Your Image Badge" />
 
 ## Personal Projects
 - [⭐️ Personal Website](https://anthonyhuang.net)
