@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Anthony, a 17 year old high school student who specializes in front-end programming! I am currently pursuing a career in Cybersecurity (Offensive Security).
+I'm Anthony, a 17 year old high school student who specializes in front-end programming! I am currently looking to pursue a career in Cybersecurity (Offensive Security).
 
 ![](https://komarev.com/ghpvc/?username=anthonyhuang07&color=ff7700&style=for-the-badge)
 
