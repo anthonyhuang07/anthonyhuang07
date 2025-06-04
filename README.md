@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Anthony, a 17 year old high school student who specializes in front-end programming! I am currently looking to pursue a career in Cybersecurity (Offensive Security).
+I'm Anthony, a 17 year old first-year Computer Science Major at Carleton University. I am looking to pursue a career in Cybersecurity.
 
 ![](https://komarev.com/ghpvc/?username=anthonyhuang07&color=ff7700&style=for-the-badge)
 
