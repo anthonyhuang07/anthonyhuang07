@@ -9,7 +9,6 @@ I'm Anthony, a 17 year old first-year Computer Science Major at Carleton Univers
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/FHDHGNGN.png" alt="Your Image Badge" />
 
-## Personal Projects
+## Featured Projects
 - [⭐️ Personal Website](https://anthonyhuang.net)
 - [⏱️ PomodoPro](https://pomodopro.app)
-- [📚 IB Converter](https://ibconverter.live)
