@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello - Bonjour - 你好 - こんにちは 👋
 
 I'm Anthony, a 17 year old first-year Computer Science Major at Carleton University. I am looking to pursue a career in Cybersecurity.
 
