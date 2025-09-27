@@ -1,6 +1,6 @@
 # Hello - Bonjour - 你好 - こんにちは - 안녕하세요 👋
 
-I'm Anthony, a 17 year old first-year Computer Science Major at Carleton University. I am looking to pursue a career in Cybersecurity.
+I'm Anthony, a 17 year old first-year Computer Science Major at Carleton University. I am also pursuing a Minor in Linguistics.
 
 ![](https://komarev.com/ghpvc/?username=anthonyhuang07&color=ff7700&style=for-the-badge)
 
