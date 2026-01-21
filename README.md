@@ -2,7 +2,7 @@
 
 I'm Anthony, an 18 year old first-year Computer Science Major at Carleton University. I am also pursuing a Minor in Linguistics.
 
-[anthonyhuang.net](https://anthonyhuang.net)
+=> [https://anthonyhuang.net](https://anthonyhuang.net) <=
 
 <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,py,bash"/>
 <img src="https://skillicons.dev/icons?i=apple,linux,nginx,express,nodejs,electron,cloudflare"/>
